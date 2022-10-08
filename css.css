@@ -16,7 +16,7 @@ body{
     min-width:185px ;
     border-radius: 20% 20%;
     position:relative;
-    right: 4%;
+    right: 3%;
     top: 0;
 
 
@@ -78,6 +78,16 @@ body{
 
 }
 
+.content .img {
+    min-width:185px ;
+    border-radius: 20% 20%;
+    position:relative;
+    right: 3%;
+    top: 0;
+
+
+   
+
 
 .content {
    
@@ -97,7 +107,7 @@ body{
         min-width:200px ;
         border-radius: 20% 20%;
         position:relative;
-        right: 9%;
+        right: 8%;
         top: 0;
     
     }
